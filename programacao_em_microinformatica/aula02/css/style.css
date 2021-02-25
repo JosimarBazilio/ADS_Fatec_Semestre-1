@@ -1,0 +1,44 @@
+body{
+    color: red;
+}
+
+header{
+    color: blue;
+}
+
+footer{
+    color: pink;
+}
+
+p{
+    color: darkgreen;
+}
+
+em{
+    font-size: 55px;
+}
+
+.cor1{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.cor2{
+    background-color: antiquewhite;
+    color: darkblue;
+    font-size: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#padrao{
+    font-size: 35px;
+    font-family: sans-serif, Arial, Helvetica;
+}
+
+#palavra{
+    color: darkred;
+    font-size: 33px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
