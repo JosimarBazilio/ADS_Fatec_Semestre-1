@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    width: 900px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 3.1em;
+}
+h2 {
+    background-color: #c5c5c5;
+    padding: 0.625em;
+}
+td {
+    text-align: justify;
+    padding-right: 4.375em;
+    padding-left: 1.25em;
+}
+figcaption {
+    text-align: center;
+}

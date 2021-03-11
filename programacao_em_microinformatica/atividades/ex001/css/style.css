@@ -1,0 +1,12 @@
+header {
+    text-align: center;
+    font-size: 1.3em;
+}
+section {
+    text-align: justify;
+    width: 400px;
+    margin: auto;
+}
+div {
+    text-align: right;
+}

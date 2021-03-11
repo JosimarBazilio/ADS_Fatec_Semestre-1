@@ -1,0 +1,19 @@
+body {
+    width: 800px;
+    margin:auto;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+h2 {
+    text-align: right;
+}
+p {
+    text-align: center;
+    margin: auto;
+}
+section {
+    margin-bottom: 80px;
+}
